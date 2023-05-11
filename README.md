@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 💻 DEV's log 💻
+<!-- ## 💻 DEV's log 💻 -->
 <div style="display:flex; flex-direction:row;">
     <a href="https://mingming1225.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -33,20 +33,12 @@ Here are some ideas to get you started:
     <a href="https://www.notion.so/KYEONG-MIN-34b7b160a0f545daaca40c5b6dfe6138">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gkm2019&theme=default)](https://mingming1225.tistory.com/)
-</div><br>
-
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
     <a href="https://www.linkedin.com/in/kyeongmin-ku-021095233/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
     </a>
     <a href="mailto:popo2019@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
-    </a>
-</div><br>
+    </a></div><br>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkm2019&theme=tokyonight)  
   
