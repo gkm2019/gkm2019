@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkm2019&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/gkm2019)
   
 <!-- [![Kyeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkm2019&show_icons=true&theme=aura)](https://github.com/gkm2019/github-readme-stats)  -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=aura)](https://git.io/streak-stats)  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gkm2019&theme=aura)](https://git.io/streak-stats)  
 
 <br>
 
